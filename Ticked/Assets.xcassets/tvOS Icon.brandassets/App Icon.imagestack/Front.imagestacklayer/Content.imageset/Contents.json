@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "SecondTimeAppIconAppStoreFrontx400x240.png",
+      "idiom" : "tv",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "SecondTimeAppIconAppStoreFrontx800.png",
+      "idiom" : "tv",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
